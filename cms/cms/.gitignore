@@ -1,0 +1,8 @@
+local_settings.py
+*.pyc
+ststicfiles
+.env
+venv
+*.dump
+.idea
+*.sql
